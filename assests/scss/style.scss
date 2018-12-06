@@ -1,0 +1,18 @@
+$h3-color: #fd0101;
+
+@import "./bootstrap/bootstrap.scss";
+h3 {
+  color: $success;
+  font-weight: bold;
+}
+.btn {
+  color: $success;
+  background-color: transparent;
+  background-image: none;
+  border-color: #28a745;
+}
+
+.carousel-item {
+  min-height: 50vh;
+  background-size: cover;
+}
